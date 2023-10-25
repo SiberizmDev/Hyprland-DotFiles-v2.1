@@ -1,7 +1,7 @@
 # Dotfiles Install
 
 ```
-git clone
+git clone https://github.com/AhmetinzmSec/Hyprland-DotFiles-v2.1.git
 ```
 
 Copy everything in `Hyprland Dotfiles v2.1` and put it in `/home/user/`
