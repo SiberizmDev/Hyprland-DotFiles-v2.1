@@ -52,4 +52,4 @@ chsh -s $(which zsh)
 
 # Screenshot
 
-![[SS.png]]
+![SS](SS.png)
